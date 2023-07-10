@@ -1,2 +1,2 @@
 # OptiLib
-Optimitazion library
+Optimization library
